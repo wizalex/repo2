@@ -2,3 +2,4 @@ text1
 text2
 cfg=config.txt
 new  data for branch1
+new data1 for branch2
